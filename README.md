@@ -6,7 +6,7 @@ This is an interactive periodic table application. In it you can click on elemen
 
 ## Table of contents
 
-- [Periodicum](#periodica)
+- [Periodica](#periodica)
     - [Live App](#live-app)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
