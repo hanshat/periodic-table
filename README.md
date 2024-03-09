@@ -1,12 +1,12 @@
-# Periodicum
+# Periodica
 
 This is an interactive periodic table application. In it you can click on elements to obtain detailed information about each element. It features dark and light modes and supports both English and Ukrainian languages.
 
-### [Live App](https://periodicum.pages.dev/)
+### [Live App](https://periodica.vercel.app/)
 
 ## Table of contents
 
-- [Periodicum](#periodicum)
+- [Periodicum](#periodica)
     - [Live App](#live-app)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
@@ -16,7 +16,7 @@ This is an interactive periodic table application. In it you can click on elemen
     - [Screenshots](#screenshots)
   - [Author](#author)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7LIYO1)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/)
 
 ## Overview
 
@@ -52,4 +52,4 @@ This is an interactive periodic table application. In it you can click on elemen
 
 ## Author
 
--   GitHub - [@Dunkelhaiser](https://github.com/Dunkelhaiser)
+-   GitHub - [@hanshat](https://github.com/hanshat)
